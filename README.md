@@ -1,5 +1,5 @@
 # FunFactPresident
-
+Picks 5 fun facts about a randomly generated president!
 ## Usefull Tools
 
 ## Presidents List
