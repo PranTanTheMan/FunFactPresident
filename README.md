@@ -1,8 +1,8 @@
 # FunFactPresident
 
-##Usefull Tools
+## Usefull Tools
 
-##Presidents List
+## Presidents List
 - George Washington
 - John Adams
 - Thomas Jefferson
